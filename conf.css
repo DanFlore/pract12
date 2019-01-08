@@ -1,0 +1,115 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+p.naranja{
+
+font-size:30px;
+text-align: center;
+border: 2px solid;
+border-color: rgb(49, 47, 47);
+background-color: orange;
+transform: translate(20%);
+padding: 40px;
+width: 1000px;
+height: 50px;
+}
+p.amarillo{
+    font-size:30px;
+    text-align: left;
+    border: 2px solid;
+    border-color: rgb(49, 47, 47);
+    background-color: yellow;
+    padding: 20px;
+    margin-left:40px;
+    width: 500px;
+    height: 100px;
+}
+p.blanco{
+    font-size:30px;
+    text-align: left;
+    border: 2px solid;
+    border-color: rgb(49, 47, 47);
+    background-color: white;
+    padding: 20px;
+    margin-left:40px;
+    width: 500px;
+    height: 100px;
+}
+
+p.azul{
+    font-size:30px;
+    text-align: right;
+    border: 2px solid;
+    border-color: rgb(49, 47, 47);
+    background-color: rgb(15, 178, 228);
+    transform: translate(150%);
+    position: absolute;
+    bottom:230px;
+    padding: 20px;
+    margin-left:40px;
+    width: 500px;
+    height: 100px;
+}
+p.rosa{
+    font-size:30px;
+    text-align: right;
+    border: 2px solid;
+    border-color: rgb(49, 47, 47);
+    background-color: pink;
+    transform: translate(150%);
+    position: absolute;
+    bottom:70px;
+    padding: 20px;
+    margin-left:40px;
+    width: 500px;
+    height: 100px;
+}
+p.verde{
+    font-size:30px;
+    text-align: center;
+    border: 2px solid;
+    border-color: rgb(49, 47, 47);
+    background-color: green;
+    transform: translate(90%);
+    position: absolute;
+    bottom:140px;
+    padding: 20px;
+    margin-left:40px;
+    width: 500px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
